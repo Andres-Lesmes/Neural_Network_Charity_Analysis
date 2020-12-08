@@ -9,7 +9,11 @@ In this analysis we are creating a neural network in order to analyze a set of d
   
 ##### Compiling, Training, and Evaluating the Model:
   * For the neural network model I chose 2 layers and 100 nodes for the first layer and 80 nodes for the second layer because of the rule of thumb.
+  <img width="943" alt="Screen Shot 2020-12-07 at 8 53 27 PM" src="https://user-images.githubusercontent.com/68616522/101428333-80304e80-38ce-11eb-8cdf-6d8dff5ffdbf.png">
+
   * In despite three diiferent attempts I was not able to reach the target model preformance.
+  <img width="627" alt="Screen Shot 2020-12-07 at 8 53 55 PM" src="https://user-images.githubusercontent.com/68616522/101428337-81617b80-38ce-11eb-866d-de8920bc29c7.png">
+  
   * In order to increase the model performance I deleted the STATUS column; also, I increased the nodes and used a third layer. Moreover, I increased the epochs and changed the activation of the layers.
   
 ## Summary
