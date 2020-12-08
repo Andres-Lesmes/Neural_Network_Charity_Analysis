@@ -10,7 +10,7 @@ In this analysis we are creating a neural network in order to analyze a set of d
 ##### Compiling, Training, and Evaluating the Model:
   * For the neural network model I chose 2 layers and 100 nodes for the first layer and 80 nodes for the second layer because of the rule of thumb.
   * In despite three diiferent attempts I was not able to reach the target model preformance.
-  * In order to increase the model performance I deleted the STATUS column; also, I increase the nodes and used a third layer. Moreover, I increased the epochs and changed the activation of the layers.
+  * In order to increase the model performance I deleted the STATUS column; also, I increased the nodes and used a third layer. Moreover, I increased the epochs and changed the activation of the layers.
   
 ## Summary
 All in all in despite of our efforts to increase the model performance; the model accuracy remained under 75% which for the purpose of the company should be enough since it does not matter if the company rejects to fund some projects that would be successful. The money that is not used in those projects would be used in other projects that have more characteristics of being successful.
